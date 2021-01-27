@@ -1,4 +1,6 @@
-deploing vercel // https://next-auth-example-main-eight.vercel.app/
+gh_next-auth-example-main
+===========================================
+deploing vercel: // https://next-auth-example-main-eight.vercel.app/
 -----------------------------------------------------
-nextauthjs/next-auth-example//https://github.com/nextauthjs/next-auth-example
+дЖЕРЕЛО: nextauthjs/next-auth-example //https://github.com/nextauthjs/next-auth-example
 =====================================================================================
